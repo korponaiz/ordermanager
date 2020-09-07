@@ -12,7 +12,7 @@ import org.hibernate.annotations.LazyCollectionOption;
 
 @Entity
 public class Employee {
-
+//Ez csak egy teszt comment
 	@GeneratedValue
 	@Id
 	private Long id;
